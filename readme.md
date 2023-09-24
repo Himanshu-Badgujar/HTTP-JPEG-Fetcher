@@ -27,7 +27,10 @@ Before using this program, ensure that you have the following prerequisites inst
 
 ## Usage
 
-
+- git clone git@github.com:Himanshu-Badgujar/HTTP-JPEG-Fetcher.git
+- Open terminal in HTTP-JPEG-Fetcher/
+- g++ main.cpp -o main
+- ./main
 
 ## Contribution
 
